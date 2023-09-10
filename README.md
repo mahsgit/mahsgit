@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Merbebt Solomon</h1>
 <h3 align="center">Ready to Make an Impact</h3>
-<img align="right" alt="coding" width="400" src="https://tenor.com/view/scaler-create-impact-coding-programming-chill-gif-24991316">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 
 
