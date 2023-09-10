@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://cdn.vectorstock.com/i/1000x1000/35/83/software-development-programming-vector-24033583.webp
+
 
 <h1 align="center">Hi 👋, I'm Merbebt Solomon</h1>
 <h3 align="center">Ready to Make an Impact</h3>
