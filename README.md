@@ -1,4 +1,4 @@
-[[### Hi there 👋
+[[[### Hi there 👋
 
 <!--
 **mahsgit/mahsgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+https://cdn.vectorstock.com/i/1000x1000/35/83/software-development-programming-vector-24033583.webp
 
 <h1 align="center">Hi 👋, I'm Merbebt Solomon</h1>
 <h3 align="center">Ready to Make an Impact</h3>
@@ -50,5 +51,3 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahsgit&show_icons=true&locale=en" alt="mahsgit" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahsgit&" alt="mahsgit" /></p>
-)https://cdn.vectorstock.com/i/1000x1000/35/83/software-development-programming-vector-24033583.webp
-
